@@ -1,6 +1,9 @@
 gnuplot interfaces in ANSI C
 ============================
 
+Note: this repo is for archival only.
+A maintained version of gnuplot_i can be found on [https://github.com/longradix/gnuplot_i](https://github.com/longradix/gnuplot_i)
+
 (c) 2001
 
 gnuplot is a freely available, command-driven graphical display tool
